@@ -1,0 +1,6 @@
+{
+  "name": "RectiSim - Power Electronics Rectifier Simulator",
+  "description": "Real-time interactive simulation of 1-phase and 3-phase diode bridge and thyristor controlled rectifiers with interactive component probing and synchronized oscilloscope waveforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
